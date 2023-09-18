@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               children: <Widget>[
                 Text("John Virgil C. Carvajal"),
                 Text("Lucienter 2nd, Bolinao, Pangasinan"),
-                Text("3rd-Year BSIT at PSU Urdanet")
+                Text("3rd-Year BSIT at PSU Urdaneta")
               ],
             )),
       ),
